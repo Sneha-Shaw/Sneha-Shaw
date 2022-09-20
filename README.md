@@ -26,7 +26,6 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="36">
 <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" height="42" style="max-width: 100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="36">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="36">
 
 <img src="https://camo.githubusercontent.com/1bb2ed656d9ec6f7778dac9a54c73d35480cad9b519489df5e5647de120c7843/68747470733a2f2f736e6d7063656e7465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f5245535466756c2d4150492d6c6f676f2d666f722d6c696768742d62672e706e67" height="30" data-canonical-src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" style="max-width: 100%;">
 
