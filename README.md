@@ -4,7 +4,7 @@
  
 <p>A full stack developer from Kolkata. I am passionate about learning and exploring new skills and technologies. I am currently employed as full stack developer intern at Matricula and pursuing B.Tech in CSE from UEM Kolkata </p>
 
-
+[![@snehashaw122's Holopin board](https://holopin.me/snehashaw122)](https://holopin.io/@snehashaw122)
 ### Web Development (Full-stack):
 
 #### Frontend/UI:
@@ -65,7 +65,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Sneha-Shaw&count_private=true&theme=merko&show_icons=true&hide=prs"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Shaw&theme=tokyonight" >
 <img src="https://gpvc.arturio.dev/Sneha-Shaw" >
-
+<!-- !\[@snehashaw122's Holopin board\](https://holopin.io/api/user/board?user=snehashaw122) -->
 ---
 
 ## Connect with me
