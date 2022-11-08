@@ -65,7 +65,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Shaw&theme=tokyonight" >
 <img src="https://gpvc.arturio.dev/Sneha-Shaw" >
 <!-- !\[@snehashaw122's Holopin board\](https://holopin.io/api/user/board?user=snehashaw122) -->
----
+
 [![@snehashaw122's Holopin board](https://holopin.me/snehashaw122)](https://holopin.io/@snehashaw122)
 
 ## Connect with me
