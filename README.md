@@ -2,7 +2,7 @@
 
  <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px">, I'm Sneha Shaw  </h2>  
  
-<p>A full stack developer from Kolkata. I am passionate about learning and exploring new skills and technologies. I am currently pursuing B.Tech in CSE from <strong>UEM Kolkata</strong> </p>
+<p>A full stack developer from Kolkata. I am passionate about learning and exploring new skills and technologies. </p>
 
 ### Web Development (Full-stack):
 
