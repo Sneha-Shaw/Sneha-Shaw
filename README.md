@@ -1,17 +1,12 @@
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
- <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px">, I'm Sneha Shaw  </h2>  
+ <h2 align="center"> Hi there, I'm Sneha Shaw  </h2>  
  
-<p>A full stack developer from Kolkata. I am passionate about learning and exploring new skills and technologies. </p>
+<p>A frontend developer from Kolkata. I am passionate about learning and exploring new skills and technologies. </p>
 
 ### 🏆 Github Profile Trophy </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sneha-Shaw&theme=dracula" alt="Sneha-Shaw" /></a> </p>
-
-### Contribution Graph
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Sneha-Shaw&theme=react-dark&hide_border=true&area=true" >
-
 
 #### Overall profile stats
 
